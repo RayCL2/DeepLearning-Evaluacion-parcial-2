@@ -127,5 +127,6 @@ respecto al modelo baseline.
 
 ## Autor
 
-**Basthian Luis Bascuñan Santander**  
+**Basthian Luis Bascuñan Santander** 
+**Gibran Beiza**
 Asignatura: **Deep Learning**
